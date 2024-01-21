@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KirbleSensei/stuff/main/The%20Strongest%20Battlegrounds%20GUI"))()
